@@ -1,6 +1,6 @@
 ### Olá, eu sou o Gustavo, posto aqui alguns estudos que venho fazendo sobre tecnologias e algum projetos pessoais! 
 
-- 🐱‍💻 Atualmente sou estagiário em uma empresa de TI
+- 🐱‍💻 Estagiário em TI
 - 🐱‍👤 Estudando: Delphi, JavaScript, HTML e CSS
 - 🐱‍🚀  Pronomes: Ele/Dele
 
