@@ -1,4 +1,4 @@
-### Olá, eu sou o Gustavo, posto aqui alguns estudos que venho fazendo sobre tecnologias e algum projetos pessoais! 
+### Olá, eu sou o Gustavo, posto aqui alguns estudos que venho fazendo sobre tecnologias e alguns projetos pessoais! 
 
 - 🐱‍💻 Estagiário em TI
 - 🐱‍👤 Estudando: Delphi, JavaScript, HTML e CSS
