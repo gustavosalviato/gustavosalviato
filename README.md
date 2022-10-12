@@ -1,12 +1,8 @@
 ### Olá, eu sou o Gustavo Henrique
 
-Atualmente, estou em focado em estudar o Ecossistema JavaScript, mais voltado pra Front-End.
+Atualmente, estou em focado em estudar o Ecossistema JavaScript, mais voltado pra Front-End. ReactJs, NextJs e Web Design
 
-* ReactJS
-* NextJS
-* Web Design
-* HTML
-* CSS
+
 
 
 <div align="center">
