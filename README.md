@@ -1,8 +1,6 @@
-### Olá, eu sou o Gustavo, posto aqui alguns estudos que venho fazendo sobre tecnologias e alguns projetos pessoais! 
+### Olá, eu sou o Gustavo Henrique
 
-- 🐱‍💻 Estagiário em TI
-- 🐱‍👤 Estudando: Delphi, JavaScript, HTML e CSS
-- 🐱‍🚀  Pronomes: Ele/Dele
+Atualmente, estou em focado em estudar o Ecossistema JavaScript, mais voltado pra Front-End.
 
 <div align="center">
   <a href="https://github.com/gustavosalviato">
